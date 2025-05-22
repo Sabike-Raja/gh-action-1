@@ -1,4 +1,4 @@
-name: First workflow
+name: Print String
 on: workflow_dispatch
 jobs:
   first-job:
